@@ -33,8 +33,9 @@ instruction2 = """
 1. You will display the first question 
 2. You will display the three answers for the selected question delimited by commas, on a separate row
 3. You will ask the user to answer
-4. You will reply if the user's answer is correct. 
-5. The user can reply with numbers 1,2,3 representing 1 the first answer, 2 the second one and 3 the third answer.
+4. The user can reply with numbers 1,2,3 representing 1 the first answer, 2 the second one and 3 the third answer.
+5. You will evaluate the corectness of the answer after the user replies and communicate it to the user. 
+
 6. If the user answers with none of the answers or a a different one, you will tell the user that she is wrong.
 7. You will repeat the same for each of the next questions
 

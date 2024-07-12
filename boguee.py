@@ -34,10 +34,10 @@ instruction2 = """
 2. You will display the three answers for the selected question delimited by commas, on a separate row
 3. You will ask the user to answer. Each answer will be numbered with 1, 2 and 3.
 4. The user can answer with the text of the answer or with the correspondent number.
-4. You will communicate it to the user if the answer was correct or not. 
+5. You will communicate it to the user if the answer was correct or not. 
 
-5. If the user answers with none of the answers or a a different one, you will tell the user that she is wrong.
-6. You will repeat the same for each of the next questions
+6. If the user answers with none of the answers or a a different one, you will tell the user that she is wrong.
+7. You will repeat the same for each of the next questions
 
 In the end you will present the summary:
 - list each question and mention if the result was correct or not

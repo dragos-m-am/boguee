@@ -1,0 +1,192 @@
+[
+    {
+        "question": "Who is considered the inventor of the modern bra?",
+        "answers": "Mary Phelps Jacob, Herminie Cadolle, Ida Rosenthal",
+        "correct-answer": "Mary Phelps Jacob"
+    },
+    {
+        "question": "Which brand is famous for its annual fashion show featuring elaborate lingerie designs?",
+        "answers": "Victoria's Secret, La Perla, Agent Provocateur",
+        "correct-answer": "Victoria's Secret"
+    },
+    {
+        "question": "What type of bra is designed to provide maximum support and minimize bounce during physical activity?",
+        "answers": "Push-up bra, Sports bra, T-shirt bra",
+        "correct-answer": "Sports bra"
+    },
+    {
+        "question": "Which lingerie brand was founded by a former British Army officer in 1994?",
+        "answers": "Agent Provocateur, Victoria's Secret, Savage X Fenty",
+        "correct-answer": "Agent Provocateur"
+    },
+    {
+        "question": "What is the term for a bra without any underwire or padding?",
+        "answers": "Balconette bra, Bralette, Plunge bra",
+        "correct-answer": "Bralette"
+    },
+    {
+        "question": "Which Italian brand is known for its luxurious and intricate lingerie designs?",
+        "answers": "La Perla, Intimissimi, Cosabella",
+        "correct-answer": "La Perla"
+    },
+    {
+        "question": "Who popularized the bullet bra in the 1950s?",
+        "answers": "Marilyn Monroe, Madonna, Jane Russell",
+        "correct-answer": "Jane Russell"
+    },
+    {
+        "question": "Which lingerie item is designed to smooth and shape the body, often worn under dresses?",
+        "answers": "Corset, Shapewear, Bustier",
+        "correct-answer": "Shapewear"
+    },
+    {
+        "question": "Which French designer is credited with introducing the concept of the bikini in 1946?",
+        "answers": "Jean Patou, Louis Réard, Coco Chanel",
+        "correct-answer": "Louis Réard"
+    },
+    {
+        "question": "What is the name of the lingerie style that combines a bra and a garter belt?",
+        "answers": "Teddy, Babydoll, Garter dress",
+        "correct-answer": "Garter dress"
+    },
+    {
+        "question": "Which brand is known for its bold and provocative lingerie designs, often featuring intricate details and embellishments?",
+        "answers": "La Perla, Agent Provocateur, Victoria's Secret",
+        "correct-answer": "Agent Provocateur"
+    },
+    {
+        "question": "What type of panties are characterized by a high-cut leg opening?",
+        "answers": "Bikini, Boyshorts, Thong",
+        "correct-answer": "Bikini"
+    },
+    {
+        "question": "Which lingerie brand was founded by singer Rihanna in 2018?",
+        "answers": "La Perla, Savage X Fenty, Calvin Klein",
+        "correct-answer": "Savage X Fenty"
+    },
+    {
+        "question": "What type of bra is designed to be worn with low-cut or plunging necklines?",
+        "answers": "Push-up bra, Plunge bra, T-shirt bra",
+        "correct-answer": "Plunge bra"
+    },
+    {
+        "question": "Which lingerie item is typically a one-piece garment that covers the torso and crotch, often with snap closures at the crotch?",
+        "answers": "Bodysuit, Corset, Chemise",
+        "correct-answer": "Bodysuit"
+    },
+    {
+        "question": "What is the name of the lingerie style that features a short, loose-fitting top and matching shorts?",
+        "answers": "Babydoll, Teddy, Camisole set",
+        "correct-answer": "Camisole set"
+    },
+    {
+        "question": "Which lingerie brand is known for its slogan 'The World's Best Fitting Bra'?",
+        "answers": "Wacoal, Chantelle, ThirdLove",
+        "correct-answer": "ThirdLove"
+    },
+    {
+        "question": "What type of panties provide full coverage of the hips and buttocks?",
+        "answers": "Thongs, Boyshorts, Briefs",
+        "correct-answer": "Briefs"
+    },
+    {
+        "question": "Which type of bra is designed to be invisible under tight or sheer clothing?",
+        "answers": "T-shirt bra, Push-up bra, Balconette bra",
+        "correct-answer": "T-shirt bra"
+    },
+    {
+        "question": "What is the name of the lingerie style that is similar to a slip, often worn as nightwear?",
+        "answers": "Babydoll, Chemise, Bustier",
+        "correct-answer": "Chemise"
+    },
+    {
+        "question": "Which lingerie item was popularized in the 16th century to shape the waist and lift the bust?",
+        "answers": "Corset, Bralette, Shapewear",
+        "correct-answer": "Corset"
+    },
+    {
+        "question": "What type of bra is designed to enhance cleavage with additional padding?",
+        "answers": "Bralette, Push-up bra, Sports bra",
+        "correct-answer": "Push-up bra"
+    },
+    {
+        "question": "Which type of lingerie is typically worn during the day and is known for its comfort and simplicity?",
+        "answers": "Bustier, Chemise, Everyday bra",
+        "correct-answer": "Everyday bra"
+    },
+    {
+        "question": "What type of panties are designed to avoid visible panty lines?",
+        "answers": "Boyshorts, Briefs, Thongs",
+        "correct-answer": "Thongs"
+    },
+    {
+        "question": "Which type of bra is often strapless and designed to be worn under evening gowns or tops with complex designs?",
+        "answers": "Balconette bra, Strapless bra, Plunge bra",
+        "correct-answer": "Strapless bra"
+    },
+    {
+        "question": "What is the name of the lingerie style that is typically a short, loose-fitting nightgown with thin straps?",
+        "answers": "Babydoll, Chemise, Camisole",
+        "correct-answer": "Babydoll"
+    },
+    {
+        "question": "Which brand is known for its 'Pink' line targeting younger consumers with vibrant and playful designs?",
+        "answers": "Victoria's Secret, Calvin Klein, Savage X Fenty",
+        "correct-answer": "Victoria's Secret"
+    },
+    {
+        "question": "What is the term for a one-piece lingerie item that combines a camisole with attached garters?",
+        "answers": "Teddy, Corset, Bustier",
+        "correct-answer": "Teddy"
+    },
+    {
+        "question": "Which type of panties have a waistband that sits low on the hips?",
+        "answers": "High-waisted briefs, Hipsters, Boyshorts",
+        "correct-answer": "Hipsters"
+    },
+    {
+        "question": "Which lingerie brand is famous for its lace designs and was founded in France in 1886?",
+        "answers": "Chantelle, Aubade, Simone Pérèle",
+        "correct-answer": "Chantelle"
+    },
+    {
+        "question": "What type of bra is designed to be worn with halter tops or crisscrossed back dresses?",
+        "answers": "Convertible bra, Plunge bra, Sports bra",
+        "correct-answer": "Convertible bra"
+    },
+    {
+        "question": "Which type of lingerie is designed to smooth and shape the lower body, often extending to the thighs?",
+        "answers": "Shapewear, Boyshorts, Panties",
+        "correct-answer": "Shapewear"
+    },
+    {
+        "question": "Which brand is known for its innovative and inclusive sizing, catering to a wide range of body types?",
+        "answers": "ThirdLove, Victoria's Secret, Agent Provocateur",
+        "correct-answer": "ThirdLove"
+    },
+    {
+        "question": "What is the name of the lingerie style that is often sheer and adorned with lace or embroidery, typically worn as outerwear?",
+        "answers": "Corset, Bralette, Bustier",
+        "correct-answer": "Bustier"
+    },
+    {
+        "question": "Which brand is known for its iconic 'No Show' panties designed to eliminate visible panty lines?",
+        "answers": "Hanky Panky, Calvin Klein, Commando",
+        "correct-answer": "Commando"
+    },
+    {
+        "question": "What is the name of the lingerie style that features a high waist and often provides shaping benefits?",
+        "answers": "Briefs, Boyshorts, High-waisted panties",
+        "correct-answer": "High-waisted panties"
+    },
+    {
+        "question": "Which lingerie brand is known for its 'Soiree' collection featuring bold colors and innovative fabrics?",
+        "answers": "Cosabella, La Perla, Agent Provocateur",
+        "correct-answer": "Cosabella"
+    },
+    {
+        "question": "Which type of bra is designed for women with larger busts, providing extra support and coverage?",
+        "answers": "Minimizer bra, Sports bra, Full-coverage bra",
+        "correct-answer": "Full-coverage bra"
+    }
+]

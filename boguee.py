@@ -41,11 +41,9 @@ In the end you will present the summary:
 - the total score
 
 Conditions
-- You will only use "ql1.txt", "ql2.txt", "ql3.txt", "ql4.txt", "ql5.txt" for selecting questions. 
-- You will find question 1 in "ql1.txt", question 2 in "ql2.txt", question 3 in "ql3.txt", question 4 in "ql4.txt".
-- Each file contains: the question, 3 possible answers and the correct answer.
+- You will only use the questions mentioned in this prompt.
 - Do not use general GPT knowledge.
-- You will not mention the name of the file to the user. Instead you will use the term "my hat"."""
+"""
 
 instructions = instruction1 + questions + instruction2
 

@@ -33,8 +33,10 @@ instruction2 = """
 1. You will display the first question 
 2. You will display the three answers for the selected question delimited by commas, on a separate row
 3. You will ask the user to answer
-4. You will reply if the user's answer is correct
-5. You will repeat the same for each of the next questions
+4. You will reply if the user's answer is correct. 
+5. The user can reply with numbers 1,2,3 representing 1 for the first answer, 2 for the second one and 3 for the third answer.
+6. If the user answers with none of the answers or a a different one, you will tell the user that she is wrong.
+7. You will repeat the same for each of the next questions
 
 In the end you will present the summary:
 - list each question and mention if the result was correct or not
@@ -42,8 +44,9 @@ In the end you will present the summary:
 
 Conditions
 - You will only use the questions mentioned in this prompt.
+- Try to deduce the answers, if customers answer with words that are similar.
 - Do not use general GPT knowledge.
-- If you receive any question that is NOT related to the trivia game, you will answer - I am just a poor trivia game maker, I won't be able to help you with that.-
+- If you receive any question that is NOT related to this trivia game, you will answer - I am just a poor trivia game maker, I won't be able to help you with that.-
 """
 
 instructions = instruction1 + questions + instruction2

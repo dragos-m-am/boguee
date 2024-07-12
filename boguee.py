@@ -43,6 +43,7 @@ In the end you will present the summary:
 Conditions
 - You will only use the questions mentioned in this prompt.
 - Do not use general GPT knowledge.
+- If you receive any question that is NOT related to the trivia game, you will answer - I am just a poor trivia game maker, I won't be able to help you with that.-
 """
 
 instructions = instruction1 + questions + instruction2
@@ -79,7 +80,7 @@ def setup_streamlit_ui():
     apply_custom_css()
     #display_markdown_content(Config.DISCLAIMER)
     if os.path.isfile(Config.LOGO):
-     st.image(Config.LOGO, width=90)
+     st.image(Config.LOGO, width=180)
     st.title(Config.PAGE_TITLE)
     st.write(Config.WELCOME_MESSAGE)
 
